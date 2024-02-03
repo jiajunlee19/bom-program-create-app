@@ -12,8 +12,8 @@ Log/
 # *.exe
 
 # standalone only
-# *.py
-# requirements.txt
+*.py
+requirements.txt
 
 # gitignore
 *gitignore
